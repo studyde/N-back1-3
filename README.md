@@ -44,7 +44,6 @@ How to Run
 Clone this repository:
 
 Bash
-git clone https://github.com/YourUsername/Color-N-back-Task.git
 Open ColourTesting.psyexp in the PsychoPy Builder.
 
 Click the Run button (green arrow).
